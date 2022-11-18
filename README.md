@@ -1,6 +1,24 @@
-# Automatic-Working-Robotic-Arm
+# IOT based Automatic-Working-Robotic-Arm
 
-Abstract 
+
+Screenshots 
+
+
+![image](https://user-images.githubusercontent.com/84896867/202794779-2c12c8e8-ea76-4f8c-a969-e1ca6119ed27.png)
+
+
+![image](https://user-images.githubusercontent.com/84896867/202794811-f3717577-2fea-4707-b52a-ca1297e6169d.png)
+
+
+
+
+Video
+
+
+https://user-images.githubusercontent.com/84896867/202795779-bc1f6502-2817-4127-8192-7b69987e9087.mp4
+
+
+Abstract
  
  
 The main focus of our project is to design and develop a mechanism like a robotic arm for the lifting and movement of objects which is completely user friendly. 
@@ -133,8 +151,7 @@ Circuit diagram of project and Flowchart
 ![image](https://user-images.githubusercontent.com/84896867/202792010-12f77f05-3937-4123-8514-f1a9af8d444a.png)
 
 
-
-![image](https://user-images.githubusercontent.com/84896867/202792367-56387036-dc1c-4024-9b38-9c7f19a14195.png)
+![image](https://user-images.githubusercontent.com/84896867/202794693-3029371b-df5b-4744-b6be-858372ebd11a.png)
 
 
 
