@@ -1,7 +1,7 @@
 # IOT based Automatic-Working-Robotic-Arm
 
 
-Screenshots 
+# Screenshots 
 
 
 
@@ -14,13 +14,13 @@ Screenshots
 
 
 
-Video
+# Video
 
 
 https://user-images.githubusercontent.com/84896867/202795779-bc1f6502-2817-4127-8192-7b69987e9087.mp4
 
 
-Abstract
+# Abstract
  
  
 The main focus of our project is to design and develop a mechanism like a robotic arm for the lifting and movement of objects which is completely user friendly. 
@@ -36,7 +36,7 @@ For the accurate movement is X and Y axis, our robotic arm is equipped with 4 se
 And to control all the servos and to connect all the potentiometers here we have used a very popular AVR development board Arduino, which is open source computer hardware and easily available in market at affordable rates. And the Arduino IDE which we have used to program this board is also user friendly. 
 
 
-Literature review 
+# Literature review 
  
  
 Since many years people are trying to replace the human work with machines. Machines called as robots which are faster than human and can reduce the human efforts. 
@@ -53,7 +53,7 @@ The use of Electro-mechanical robotic arm capable of performing a variety of man
 
 
  
-Objective 
+# Objective 
  
 To develop and control the displacement of robotic arm so that the arm can be used  to pick the object from source place and place it to the destination. 
  
@@ -70,8 +70,32 @@ Component list and specification
 5.	High current power supply. 
 6.	Other components. 
 
-Hardware description 
+# Hardware description 
  
+ 
+
+
+ 
+ Arduino UNO micro controller or Rasberry Pie: 
+ ![image](https://user-images.githubusercontent.com/84896867/202796486-a260634c-5632-4276-82a1-ccdc3ad158ca.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84896867/202796570-22ec079e-c030-4f22-a632-96fa45587a76.png)
+
+Arduino is a prototype platform (open-source) based on an easy-to-use hardware and software. It consists of a circuit board, which can be programed (referred to as a microcontroller) and a ready-made software called Arduino IDE (Integrated Development Environment), which is used to write and upload the computer code to the physical board. 
+ 
+The key features are, 
+✓	Arduino boards are able to read analog or digital input signals from different sensors and turn it into an output such as activating a motor, turning LED on/off, connect to the cloud and many other actions. 
+ 
+✓	You can control your board functions by sending a set of instructions to the microcontroller on the board via Arduino IDE (referred to as uploading software). 
+ 
+✓	Unlike most previous programmable circuit boards, Arduino does not need an extra piece of hardware (called a programmer) in order to load a new code onto the board. You can simply use a USB cable. 
+ 
+✓	Additionally, the Arduino IDE uses a simplified version of C++, making it easier to learn to program. 
+ 
+✓	Finally, Arduino provides a standard form factor that breaks the functions of the micro-controller into a more accessible package. 
+
+![Uploading image.png…]()
+
 Controlling of servo motor: 
 There are 3 wires coming out from the servo motor: 
 1)	Orange wire: This is the signal pin wire where we have to apply the appropriate PWM signal from micro-controller. In some servo motors this wire is of white colour. 
@@ -130,11 +154,11 @@ Claw connected to arm is used to grab objects. Body of Robotic Arm has been desi
 Working Principle 
 
 
-Block diagram of project: 
+# Block diagram of project: 
 
 ![image](https://user-images.githubusercontent.com/84896867/202791873-00c48d0b-83a3-47f2-9b07-b4805dacb7da.png)
 
-Description of Working Principle: 
+# Description of Working Principle: 
  
 Here all the hardware is connected to the arduino board firstly. 
  
@@ -148,7 +172,7 @@ Here the both powers supplies are isolated with each other and the finally every
 
 
 
-Circuit diagram of project and Flowchart 
+# Circuit diagram of project and Flowchart 
 
 ![image](https://user-images.githubusercontent.com/84896867/202792010-12f77f05-3937-4123-8514-f1a9af8d444a.png)
 
